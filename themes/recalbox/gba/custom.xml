@@ -33,7 +33,7 @@
 			<pos>0.38 0.78</pos>
 		</text>
 		<text name="info5" extra="true">
-			<text>CPU : 16 MHz 32bit RISC-CPU + 8bit CISC-CPU</text>
+			<text>CPU : 32bit ARM7 @ 16.78MHz + 8bit Zilog Z80 @ 8MHz</text>
 			<pos>0.38 0.82</pos>
 		</text>
 		<text name="info6" extra="true">
@@ -45,7 +45,7 @@
 			<pos>0.38 0.86</pos>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 240 x 160 pixels</text>
+			<text>Resolution : 240 x 160 pixels, 32768 colors</text>
 			<pos>0.38 0.88</pos>
 		</text>
 		<text name="info9" extra="true">
